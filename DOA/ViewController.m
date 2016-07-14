@@ -20,10 +20,7 @@
     for (int i = 0; i < 10; i++) {
         NSLog(@"Welcome to DOA");
     }
-    
-    for (int i = 0; i < 10; i++) {
-        NSLog(@"Eyy Fam!");
-    }
+
 }
 
 - (void)didReceiveMemoryWarning {
